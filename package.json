@@ -13,6 +13,8 @@
         "@sveltejs/kit": "2.8.2",
         "@sveltejs/vite-plugin-svelte": "4.0.1",
         "@types/node": "22.9.3",
+        "@zag-js/radio-group": "0.77.1",
+        "@zag-js/svelte": "0.77.1",
         "autoprefixer": "10.4.20",
         "cssnano": "7.0.6",
         "postcss": "8.4.49",
